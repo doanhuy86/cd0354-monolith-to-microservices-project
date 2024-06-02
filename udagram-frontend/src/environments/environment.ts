@@ -9,7 +9,7 @@ export const environment = {
 };
 
 /*
- * For easier debugging in development mode, you can import the following file
+ * For easier debugging in development mode, you can import the following file apiHost: 'http://a141d11078ba743d9a288aa0481c422c-1842277229.us-east-1.elb.amazonaws.com:8080/api/v0'
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
  *
  * This import should be commented out in production mode because it will have a negative impact
